@@ -1,0 +1,6 @@
+{
+  "name": "Murshed Agent",
+  "description": "Bilingual Android AI browsing agent using WebView DOM extraction (read_screen) and Gemini JSON decisions (click, type) in an automated Observe-Think-Act loop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
